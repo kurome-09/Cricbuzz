@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+*.venv/
+venv/
+env/
+ENV/
+
+# Database
+cricket_data.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
